@@ -79,7 +79,7 @@
     <div class="col-md-7 mb-4">
 
       <div class="view overlay z-depth-1-half">
-        <img src="images/students.jpg" class="card-img-top" alt="" style="height: 400px;">
+        <img src="images/black-african-american-college-students-600.jpg" class="card-img-top" alt="" style="height: 400px;">
         <div class="mask rgba-white-light"></div>
       </div>
 
@@ -89,11 +89,10 @@
     <!--Grid column-->
     <div class="col-md-5 mb-4">
 
-      <h1>For every student every classroom. Real results.</h1>
+      <h1>Making digital education and learning available to everyone, leaving no one behind.</h1>
       <hr>
-      <p>We're an organization with the mission to provide quality, world-class education for anyone, anywhere.
-        <br>
-        Learners, and teachers alike.
+      <p>
+        We're an organization with the mission to provide qualitative, accessible and equitable world-class education to everyone, everywhere.
       </p>
       <a href="home.php" class="btn btn-indigo">Start Here</a>
 
@@ -118,7 +117,7 @@
                 <img src="images/trusted.svg">
             </div>
             <h3 class="text-center">Trusted Content</h3>
-            <p class="text-center">Created by experts, Tedprimehub’s library of trusted practice and lessons covers math, 
+            <p class="text-center">Created by digital content experts, open education resource personnels and Tedprime Hub’s library of trusted practice and lessons covers math, 
             science, and more. Always free for learners and teachers.</p>
         </div>
         <div class="col-md-4">
@@ -211,7 +210,10 @@
     <div class="col-md-6 mt-md-0 mt-3">
 
       <!-- Content -->
-      <img src="images/logo.jpg" class="img-fluid" alt="TedPrimeHub" style="width: 50%; height: 100%;">
+      <div class="row">
+        <img src="images/logo.jpg" class="img-fluid" alt="TedPrimeHub" style="width: 200px; height: 100px;">
+        <img src="images/OERs.jpg" class="img-fluid" alt="OERs" style="width: 100px; height: 100px;">
+      </div>
       <p>Our mission is to provide quality, world class education to everyone, anywhere.</p>
 
     </div>
@@ -246,7 +248,7 @@
           <a href="admin.php">Admin</a>
         </li>
         <li>
-          <a href="#!">stats.php</a>
+          <a href="#!">stats</a>
         </li>
       </ul>
 
@@ -261,7 +263,7 @@
 
 <!-- Copyright -->
 <div class="footer-copyright text-center py-3">© 2018 Copyright:
-  <a href="https://mdbootstrap.com/bootstrap-tutorial/"> MDBootstrap.com</a>
+  <a href="index.php">TedPrimeHub</a>
 </div>
 <!-- Copyright -->
 

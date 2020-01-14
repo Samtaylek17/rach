@@ -7,7 +7,7 @@
 <html lang="<?php echo $preflang ?>">
 <head>
 <meta charset="utf-8">
-<title>TedBond - <?php echo $lang['home'] ?></title>
+<title>TedPrimeHub - <?php echo $lang['home'] ?></title>
 <link rel="stylesheet" href="css/normalize-1.1.3.css">
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/mdb.min.css">
